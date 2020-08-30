@@ -1,3 +1,3 @@
-# T1 - E.S Orientada a modelos 
-# Pedro Chem & Rafael Almeida
+# T1 - E.S Orientada a Modelos 
+## Pedro Chem & Rafael Almeida
 
